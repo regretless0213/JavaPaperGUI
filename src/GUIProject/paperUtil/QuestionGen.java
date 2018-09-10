@@ -7,10 +7,7 @@ import java.util.TreeMap;
 import javax.script.ScriptEngine;
 import javax.script.ScriptEngineManager;;
 
-/**
- * @author 张金生，张政
- * @version 1.0 last modified 2016.9.4
- */
+
 public class QuestionGen {
 
 	public String answer;
